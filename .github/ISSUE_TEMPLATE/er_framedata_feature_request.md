@@ -8,7 +8,7 @@ assignees: sovietspaceship
 
 **Application**
 
--   Elden Ring Frame Data Explorer (https://er-framedata.nyasu.business)
+-   Elden Ring Frame Data Explorer (https://er-frame-data.nyasu.business)
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]

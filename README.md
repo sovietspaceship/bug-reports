@@ -19,7 +19,7 @@
 * [Feature Request](https://github.com/sovietspaceship/souls-bug-reports/issues/new?assignees=sovietspaceship&labels=ds3_inventory%2C%20enhancement&template=ds3_inventory_feature_request.md&title=%5BDark%20Souls%20III%20Inventory%20Tool%5D%20)
 * [Incorrect Data Report](https://github.com/sovietspaceship/souls-bug-reports/issues/new?assignees=sovietspaceship&labels=ds3_inventory%2C%20data&template=ds3_inventory_incorrect_data.md&title=%5BDark%20Souls%20III%20Inventory%20Tool%5D%20)
 
-## [Elden Ring Frame Data Explorer](https://er-framedata.nyasu.business)
+## [Elden Ring Frame Data Explorer](https://er-frame-data.nyasu.business)
 
 * [Bug Report](https://github.com/sovietspaceship/souls-bug-reports/issues/new?assignees=sovietspaceship&labels=er_framedata%2C%20bug&template=er_framedata_bug_report.md&title=%5BElden%20Ring%20Frame%20Data%20Explorer%5D%20)
 * [Feature Request](https://github.com/sovietspaceship/souls-bug-reports/issues/new?assignees=sovietspaceship&labels=er_framedata%2C%20enhancement&template=er_framedata_feature_request.md&title=%5BElden%20Ring%20Frame%20Data%20Explorer%5D%20)

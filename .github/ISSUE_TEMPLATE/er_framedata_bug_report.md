@@ -8,7 +8,7 @@ assignees: sovietspaceship
 
 **Application**
 
--   Elden Ring Frame Data Explorer (https://er-framedata.nyasu.business)
+-   Elden Ring Frame Data Explorer (https://er-frame-data.nyasu.business)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
