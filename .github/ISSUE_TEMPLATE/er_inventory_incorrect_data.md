@@ -8,7 +8,7 @@ assignees: sovietspaceship
 
 **Application**
 
--   Elden Ring Inventory Tool
+-   Elden Ring Inventory Tool (https://er-inventory.nyasu.business)
 
 **Describe the incorrect or missing data**
 A clear and concise description of what the bug is.
