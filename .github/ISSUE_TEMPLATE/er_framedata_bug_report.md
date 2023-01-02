@@ -1,22 +1,21 @@
 ---
-name: Bug report
-about: Report an issue with the application
-title: ''
-labels: ''
+name: Elden Ring Frame Data Explorer Bug Report
+about: Report an issue with Elden Ring Frame Data Explorer
+title: '[Elden Ring Frame Data Explorer] '
+labels: er_framedata, bug
 assignees: sovietspaceship
-
 ---
 
 **Application**
-* [ ] Elden Ring Inventory Tool
-* [ ] Elden Ring Frame Data Explorer
-* [ ] Dark Souls III Inventory Tool
+
+-   Elden Ring Frame Data Explorer
 
 **Describe the bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -29,8 +28,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **If User Interface issue**
-* Device: Desktop or Mobile
-* Browser: 
+
+-   Device: Desktop or Mobile
+-   Browser:
 
 **Additional context**
 Add any other context about the problem here.

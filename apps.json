@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Elden Ring Inventory Tool",
+        "url": "https://er-inventory.nyasu.business",
+        "slug": "er_inventory"
+    },
+    {
+        "name": "Dark Souls III Inventory Tool",
+        "url": "https://ds3-inventory.nyasu.business",
+        "slug": "ds3_inventory"
+    },
+    {
+        "name": "Elden Ring Frame Data Explorer",
+        "url": "https://er-framedata.nyasu.business",
+        "slug": "er_framedata"
+    }
+]

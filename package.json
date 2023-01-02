@@ -1,0 +1,29 @@
+{
+  "name": "souls-bug-reports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovietspaceship/souls-bug-reports.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sovietspaceship/souls-bug-reports/issues"
+  },
+  "homepage": "https://github.com/sovietspaceship/souls-bug-reports#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "glob": "^8.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.38",
+    "@types/glob": "^8.0.0"
+  }
+}
