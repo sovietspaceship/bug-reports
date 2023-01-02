@@ -25,8 +25,13 @@ const README = `# Issues for my souls apps
 
 * Discord: Emilia#4567
 * https://twitch.tv/sovietspaceship
-* #souls-dev in my [Discord server](https://discord.gg/Kkb5MSqy7x)
-* #research in the [Elden Ring PvP server](https://discord.gg/vb2uWpmXhc)`
+* \`#souls-dev\` in my [Discord server](https://discord.gg/Kkb5MSqy7x)
+* \`#research\` in the [Elden Ring PvP server](https://discord.gg/vb2uWpmXhc)`
+
+const README_POST = `## Elden Ring Database
+
+[Open an issue](https://github.com/EldenRingDatabase/erdb/issues/new) in the [\`EldenRingDatabase/erdb\`](https://github.com/EldenRingDatabase/erdb) repository.
+`
 
 async function main() {
     const templateFilenames = glob.sync('./templates/**/*.md');
@@ -56,6 +61,7 @@ async function main() {
     await writeFileAsync('README.md', [
         README,
         await makeIssueTable(processedTemplates),
+        README_POST
     ].join(os.EOL))
 }
 
