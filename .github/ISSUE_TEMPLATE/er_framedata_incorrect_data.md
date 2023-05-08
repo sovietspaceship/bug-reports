@@ -1,7 +1,7 @@
 ---
 name: Elden Ring Frame Data Explorer Incorrect Data Report
 about: Report incorrect data in Elden Ring Frame Data Explorer
-title: '[Elden Ring Frame Data Explorer] '
+title: '[Elden Ring Frame Data Explorer] PLEASE_INSERT_ISSUE_TITLE_HERE'
 labels: er_framedata, data
 assignees: sovietspaceship
 ---

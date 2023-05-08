@@ -1,14 +1,14 @@
 ---
-name: Elden Ring Inventory Tool Feature Request
-about: Request a feature for Elden Ring Inventory Tool
-title: '[Elden Ring Inventory Tool] '
+name: Elden Ring Build Planner / Inventory Tool Feature Request
+about: Request a feature for Elden Ring Build Planner / Inventory Tool
+title: '[Elden Ring Build Planner / Inventory Tool] PLEASE_INSERT_ISSUE_TITLE_HERE'
 labels: er_inventory, enhancement
 assignees: sovietspaceship
 ---
 
 **Application**
 
--   Elden Ring Inventory Tool (https://er-inventory.nyasu.business)
+-   Elden Ring Build Planner / Inventory Tool (https://er-build-planner.nyasu.business)
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]

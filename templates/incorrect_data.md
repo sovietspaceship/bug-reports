@@ -1,7 +1,7 @@
 ---
 name: APP_TITLE Incorrect Data Report
 about: Report incorrect data in APP_TITLE
-title: '[APP_TITLE] '
+title: '[APP_TITLE] PLEASE_INSERT_ISSUE_TITLE_HERE'
 labels: APP_SLUG, data
 assignees: sovietspaceship
 ---

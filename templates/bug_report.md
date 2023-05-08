@@ -1,7 +1,7 @@
 ---
 name: APP_TITLE Bug Report
 about: Report an issue with APP_TITLE
-title: '[APP_TITLE] '
+title: '[APP_TITLE] PLEASE_INSERT_ISSUE_TITLE_HERE'
 labels: APP_SLUG, bug
 assignees: sovietspaceship
 ---

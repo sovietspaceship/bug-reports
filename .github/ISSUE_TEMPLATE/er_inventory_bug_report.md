@@ -1,14 +1,14 @@
 ---
-name: Elden Ring Inventory Tool Bug Report
-about: Report an issue with Elden Ring Inventory Tool
-title: '[Elden Ring Inventory Tool] '
+name: Elden Ring Build Planner / Inventory Tool Bug Report
+about: Report an issue with Elden Ring Build Planner / Inventory Tool
+title: '[Elden Ring Build Planner / Inventory Tool] PLEASE_INSERT_ISSUE_TITLE_HERE'
 labels: er_inventory, bug
 assignees: sovietspaceship
 ---
 
 **Application**
 
--   Elden Ring Inventory Tool (https://er-inventory.nyasu.business)
+-   Elden Ring Build Planner / Inventory Tool (https://er-build-planner.nyasu.business)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
