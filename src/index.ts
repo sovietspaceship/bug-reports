@@ -34,7 +34,7 @@ const README_POST = `## Elden Ring Database
 `
 
 async function main() {
-    const templateFilenames = glob.sync('./templates/**/*.md');
+    const templateFilenames = glob.sync('./templates/**/*.{md,yml}');
 
     const templates = await Bluebird.map(templateFilenames, async filename => {
         const data = await readFileAsync(filename);
@@ -48,7 +48,7 @@ async function main() {
 
             return {
                 filename: `${app.slug}_${path.basename(template.filename)}`,
-                content: newContent.split('\n').map(l => l.trim()).join(os.EOL),
+                content: newContent,
                 app,
             }
         }));
