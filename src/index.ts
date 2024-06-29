@@ -23,7 +23,7 @@ const README = `# Issues for my souls apps
 
 ## Contacts
 
-* Discord: Emilia#4567
+* Discord: @sovietspaceship
 * https://twitch.tv/sovietspaceship
 * \`#souls-dev\` in my [Discord server](https://discord.gg/Kkb5MSqy7x)
 * \`#research\` in the [Elden Ring PvP server](https://discord.gg/vb2uWpmXhc)`
