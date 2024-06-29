@@ -17,6 +17,7 @@ body:
       label: Application Title
       description: "Enter the title of the application (Elden Ring Build & Inventory Planner)."
       placeholder: "Elden Ring Build & Inventory Planner"
+      value: Elden Ring Build & Inventory Planner
   - type: input
     id: app_url
     attributes:

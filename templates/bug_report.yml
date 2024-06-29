@@ -17,6 +17,7 @@ body:
       label: Application Title
       description: "Enter the title of the application (APP_TITLE)."
       placeholder: "APP_TITLE"
+      value: APP_TITLE
   - type: input
     id: app_url
     attributes:

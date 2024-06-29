@@ -17,6 +17,7 @@ body:
       label: Application Title
       description: "Enter the title of the application (Elden Ring Frame Data Explorer)."
       placeholder: "Elden Ring Frame Data Explorer"
+      value: Elden Ring Frame Data Explorer
   - type: input
     id: app_url
     attributes:
