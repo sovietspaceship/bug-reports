@@ -57,7 +57,6 @@ body:
       label: Build or workspace URL
       description: "If applicable, provide the URL of your build or workspace that displays the issue."
       placeholder: "URL of the build or workspace."
-      optional: true
   - type: textarea
     id: screenshots
     attributes:
@@ -65,7 +64,6 @@ body:
       description: "If applicable, add screenshots to help explain your problem."
       placeholder: "Add screenshots here."
       render: file
-      optional: true
   - type: dropdown
     id: device
     attributes:
@@ -86,7 +84,6 @@ body:
       label: Additional context
       description: "Add any other context about the problem here."
       placeholder: "Any additional context about the problem."
-      optional: true
   - type: markdown
     attributes:
       value: |
