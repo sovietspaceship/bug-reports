@@ -2,7 +2,7 @@
 name: Dark Souls III Inventory Tool Bug Report
 about: Report an issue with Dark Souls III Inventory Tool
 title: '[Dark Souls III Inventory Tool] PLEASE_INSERT_ISSUE_TITLE_HERE'
-labels: ds3 inventory, bug
+labels: ds3_inventory, bug
 assignees: sovietspaceship
 ---
 

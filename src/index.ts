@@ -69,7 +69,7 @@ function performReplacements(template: string, app: AppInfo) {
     return template
         .replace(makeVar('APP_TITLE'), app.name)
         .replace(makeVar('APP_SLUG'), app.slug)
-        .replace(makeVar('APP_LABEL'), app.slug.replace(/_/g, ' '))
+        .replace(makeVar('APP_LABEL'), app.label || app.slug.replace(/_/g, ' '))
         .replace(makeVar('APP_URL'), app.url)
 }
 
@@ -79,12 +79,15 @@ async function makeIssueTable(templates: TemplateData[]) {
             if (template.app.name === app.name) {
                 const prefix = `${template.app.name} `;
                 const templateMetadata = parseTemplateMetadata(template);
+                if (!templateMetadata.name.includes('Form')) {
+                    return;
+                }
                 const encodedLabels = encodeURIComponent(templateMetadata.labels)
                 const templateFile = template.filename;
                 const encodedTitle = encodeURIComponent(templateMetadata.title.replace(/'/g, ''));
                 const urlTemplate = `https://github.com/sovietspaceship/souls-bug-reports/issues/new?assignees=sovietspaceship&labels=${encodedLabels}&template=${templateFile}&title=${encodedTitle}`
 
-                return `* [${templateMetadata.name.replace(prefix, '')}](${urlTemplate})`
+                return `* [${templateMetadata.name.replace(prefix, '').replace(' Form', '')}](${urlTemplate})`
             }
         });
 
@@ -101,7 +104,7 @@ async function makeIssueTable(templates: TemplateData[]) {
 }
 
 function parseTemplateMetadata(template: TemplateData): TemplateMetadata {
-    return template.content.split(os.EOL).reduce((out, line) => {
+    return template.content.split(os.EOL).reduce((out, line, lineIndex, content) => {
         const pattern = /^([a-z]+): (.+)/
         const match = line.match(pattern)
         if (match) {
@@ -110,6 +113,16 @@ function parseTemplateMetadata(template: TemplateData): TemplateMetadata {
             return {
                 ...out,
                 [key]: value,
+            }
+        }
+
+        if (line.startsWith('labels:')) {
+            return {
+                ...out,
+                labels: content
+                    .slice(lineIndex + 1, lineIndex + 3)
+                    .map(l => l.replace(/\s*-\s*/g, '').trim())
+                    .join(','),
             }
         }
 

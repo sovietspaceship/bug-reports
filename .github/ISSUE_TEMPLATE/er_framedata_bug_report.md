@@ -2,7 +2,7 @@
 name: Elden Ring Frame Data Explorer Bug Report
 about: Report an issue with Elden Ring Frame Data Explorer
 title: '[Elden Ring Frame Data Explorer] PLEASE_INSERT_ISSUE_TITLE_HERE'
-labels: er framedata, bug
+labels: er_framedata, bug
 assignees: sovietspaceship
 ---
 

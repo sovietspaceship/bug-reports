@@ -2,16 +2,19 @@
     {
         "name": "Elden Ring Build & Inventory Planner",
         "url": "https://er-build-planner.nyasu.business",
-        "slug": "er_build_planner"
+        "slug": "er_build_planner",
+        "label": "er build planner"
     },
     {
         "name": "Dark Souls III Inventory Tool",
         "url": "https://ds3-inventory.nyasu.business",
-        "slug": "ds3_inventory"
+        "slug": "ds3_inventory",
+        "label": "ds3_inventory"
     },
     {
         "name": "Elden Ring Frame Data Explorer",
         "url": "https://er-frame-data.nyasu.business",
-        "slug": "er_framedata"
+        "slug": "er_framedata",
+        "label": "er_framedata"
     }
 ]

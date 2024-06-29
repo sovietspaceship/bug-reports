@@ -2,7 +2,7 @@
 name: Dark Souls III Inventory Tool Incorrect Data Report
 about: Report incorrect data in Dark Souls III Inventory Tool
 title: '[Dark Souls III Inventory Tool] PLEASE_INSERT_ISSUE_TITLE_HERE'
-labels: ds3 inventory, data
+labels: ds3_inventory, data
 assignees: sovietspaceship
 ---
 

@@ -1,9 +1,9 @@
-name: Dark Souls III Inventory Tool Incorrect Data Report Form
-description: Report incorrect data in Dark Souls III Inventory Tool
+name: Dark Souls III Inventory Tool Feature Request Form
+description: Request a feature for Dark Souls III Inventory Tool
 title: '[Dark Souls III Inventory Tool] PLEASE_INSERT_ISSUE_TITLE_HERE'
 labels: 
-  - ds3 inventory
-  - data
+  - ds3_inventory
+  - enhancement
 assignees: 
   - sovietspaceship
 body:
@@ -13,18 +13,17 @@ body:
         **Application**: Dark Souls III Inventory Tool (https://ds3-inventory.nyasu.business)
   - type: textarea
     attributes:
-      label: Describe the incorrect or missing data
-      placeholder: "A clear and concise description of what the bug is. Link any sources such as wikis or datamines."
+      label: Is your feature request related to a problem? Please describe.
+      placeholder: "A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]"
   - type: textarea
     attributes:
-      label: Evidence
-      placeholder: "Screenshots or details from game data or other supporting tools."
-  - type: input
+      label: Describe the solution you'd like
+      placeholder: "A clear and concise description of what you want to happen."
+  - type: textarea
     attributes:
-      label: Build or workspace URL
-      description: "If applicable, provide the URL of your build or workspace that displays the issue."
-      placeholder: "https://..."
+      label: Describe alternatives you've considered
+      placeholder: "A clear and concise description of any alternative solutions or features you've considered."
   - type: textarea
     attributes:
       label: Additional context
-      placeholder: "Add any other context about the problem here."
+      placeholder: "Any additional context, screenshots, examples or mock-ups about the requested feature."
