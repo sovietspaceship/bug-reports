@@ -1,10 +1,13 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Contact me on Discord
+  - name: Contact me
     url: https://discord.com/users/289142457218891777
-  - name: "#souls-dev in my Discord Server"
+    about: Discord
+  - name: "Discord Server"
     url: https://discord.gg/Kkb5MSqy7x
+    about: "Check out #souls-dev"
   - name: Twitch
     url: https://twitch.tv/sovietspaceship
-  - name: "#research in Elden Ring PvP"
+  - name: "Elden Ring PvP"
     url: https://discord.gg/vb2uWpmXhc
+    about: "Ping me in #research"
