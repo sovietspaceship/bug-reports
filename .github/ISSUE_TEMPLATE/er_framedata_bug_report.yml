@@ -53,7 +53,6 @@ body:
         - Desktop
         - Mobile
         - Mobile (Installed)
-      value: Desktop
   - type: input
     id: browser
     attributes:
