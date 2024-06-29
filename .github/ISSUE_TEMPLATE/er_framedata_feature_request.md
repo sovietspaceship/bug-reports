@@ -2,7 +2,7 @@
 name: Elden Ring Frame Data Explorer Feature Request
 about: Request a feature for Elden Ring Frame Data Explorer
 title: '[Elden Ring Frame Data Explorer] PLEASE_INSERT_ISSUE_TITLE_HERE'
-labels: er_framedata, enhancement
+labels: er framedata, enhancement
 assignees: sovietspaceship
 ---
 

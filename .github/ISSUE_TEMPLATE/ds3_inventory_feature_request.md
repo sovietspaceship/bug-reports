@@ -2,7 +2,7 @@
 name: Dark Souls III Inventory Tool Feature Request
 about: Request a feature for Dark Souls III Inventory Tool
 title: '[Dark Souls III Inventory Tool] PLEASE_INSERT_ISSUE_TITLE_HERE'
-labels: ds3_inventory, enhancement
+labels: ds3 inventory, enhancement
 assignees: sovietspaceship
 ---
 

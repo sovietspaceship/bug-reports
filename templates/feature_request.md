@@ -2,7 +2,7 @@
 name: APP_TITLE Feature Request
 about: Request a feature for APP_TITLE
 title: '[APP_TITLE] PLEASE_INSERT_ISSUE_TITLE_HERE'
-labels: APP_SLUG, enhancement
+labels: APP_LABEL, enhancement
 assignees: sovietspaceship
 ---
 

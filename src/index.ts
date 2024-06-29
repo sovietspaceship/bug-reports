@@ -69,6 +69,7 @@ function performReplacements(template: string, app: AppInfo) {
     return template
         .replace(makeVar('APP_TITLE'), app.name)
         .replace(makeVar('APP_SLUG'), app.slug)
+        .replace(makeVar('APP_LABEL'), app.slug.replace(/_/g, ' '))
         .replace(makeVar('APP_URL'), app.url)
 }
 

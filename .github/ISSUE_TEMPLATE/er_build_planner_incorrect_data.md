@@ -1,14 +1,14 @@
 ---
-name: APP_TITLE Incorrect Data Report
-about: Report incorrect data in APP_TITLE
-title: '[APP_TITLE] PLEASE_INSERT_ISSUE_TITLE_HERE'
-labels: APP_LABEL, data
+name: Elden Ring Build & Inventory Planner Incorrect Data Report
+about: Report incorrect data in Elden Ring Build & Inventory Planner
+title: '[Elden Ring Build & Inventory Planner] PLEASE_INSERT_ISSUE_TITLE_HERE'
+labels: er build planner, data
 assignees: sovietspaceship
 ---
 
 **Application**
 
--   APP_TITLE (APP_URL)
+-   Elden Ring Build & Inventory Planner (https://er-build-planner.nyasu.business)
 
 **Describe the incorrect or missing data**
 A clear and concise description of what the bug is. Link any sources such as wikis or datamines.

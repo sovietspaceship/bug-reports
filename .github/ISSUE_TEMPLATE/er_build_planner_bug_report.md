@@ -1,14 +1,14 @@
 ---
-name: Elden Ring Frame Data Explorer Bug Report
-about: Report an issue with Elden Ring Frame Data Explorer
-title: '[Elden Ring Frame Data Explorer] PLEASE_INSERT_ISSUE_TITLE_HERE'
-labels: er framedata, bug
+name: Elden Ring Build & Inventory Planner Bug Report
+about: Report an issue with Elden Ring Build & Inventory Planner
+title: '[Elden Ring Build & Inventory Planner] PLEASE_INSERT_ISSUE_TITLE_HERE'
+labels: er build planner, bug
 assignees: sovietspaceship
 ---
 
 **Application**
 
--   Elden Ring Frame Data Explorer (https://er-frame-data.nyasu.business)
+-   Elden Ring Build & Inventory Planner (https://er-build-planner.nyasu.business)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
