@@ -8,6 +8,7 @@ contact_links:
     about: "Check out #souls-dev"
   - name: Twitch
     url: https://twitch.tv/sovietspaceship
+    about: My Twitch channel
   - name: "Elden Ring PvP"
     url: https://discord.gg/vb2uWpmXhc
     about: "Ping me in #research"
